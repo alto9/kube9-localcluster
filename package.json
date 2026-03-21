@@ -1,0 +1,11 @@
+{
+  "name": "kube9-localcluster",
+  "private": true,
+  "description": "Local Minikube cluster and scenarios for Kube9 development",
+  "scripts": {
+    "cluster:start": "./scripts/start.sh",
+    "cluster:stop": "./scripts/stop.sh",
+    "cluster:reset": "./scripts/reset.sh",
+    "cluster:populate": "./scripts/populate.sh"
+  }
+}
