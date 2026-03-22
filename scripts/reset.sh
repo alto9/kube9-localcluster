@@ -34,7 +34,7 @@ echo "Creating fresh cluster..."
 minikube start \
     --profile="${PROFILE}" \
     --cpus=2 \
-    --memory=4096 \
+    --memory=2048 \
     --driver=docker \
     --kubernetes-version=stable
 
