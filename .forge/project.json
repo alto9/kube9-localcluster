@@ -1,9 +1,9 @@
 {
-  "name": "kube9-localcluster",
+  "name": "kube9-minikube",
   "description": "",
   "type": "opensource",
   "metadata_path": ".forge",
   "code_path": ".",
-  "github_url": "https://github.com/owner/kube9-localcluster",
+  "github_url": "https://github.com/alto9/kube9-minikube",
   "github_board": "https://github.com/orgs/owner/projects/1"
 }

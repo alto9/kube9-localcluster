@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Shared paths and defaults for kube9-localcluster scripts.
+# Shared paths and defaults for kube9-minikube scripts.
 # Caller must set SCRIPT_DIR and REPO_ROOT before sourcing.
 
 : "${REPO_ROOT:?REPO_ROOT must be set}" "${SCRIPT_DIR:?SCRIPT_DIR must be set}"

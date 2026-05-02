@@ -1,4 +1,4 @@
-# kube9-localcluster
+# kube9-minikube
 
 Scripts and YAML scenarios for a **dedicated local Minikube cluster** used when developing [kube9-vscode](https://github.com/alto9/kube9-vscode) and [kube9-operator](https://github.com/alto9/kube9-operator). This repo is the **only** place that creates or populates that cluster; the extension and operator repos do not ship cluster bring-up scripts.
 

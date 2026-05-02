@@ -1,5 +1,5 @@
 {
-  "name": "kube9-localcluster",
+  "name": "kube9-minikube",
   "private": true,
   "description": "Local Minikube cluster and scenarios for Kube9 development",
   "scripts": {
